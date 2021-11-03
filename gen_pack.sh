@@ -12,7 +12,7 @@
 
 # Upstream repository
 UPSTREAM_URL=https://api.github.com/repos/intel/tinycbor
-UPSTREAM_TAG=v0.5.2
+UPSTREAM_TAG=v0.5.3
 
 # Pack Vendor
 PACK_VENDOR=MDK-Packs
