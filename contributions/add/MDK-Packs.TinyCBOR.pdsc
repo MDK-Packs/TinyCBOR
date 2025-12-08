@@ -12,6 +12,9 @@
     </licenseSet>
   </licenseSets>
   <releases>
+    <release version="1.0.2" date="2025-12-08" deprecated="2025-12-08">
+      Deprecation notice
+    </release>
     <release version="1.0.1" date="2021-11-03">
       Update based on TinyCBOR v0.5.3
     </release>
